@@ -6,7 +6,7 @@ HTML, CSS, and JavaScript.
 The projects focus on building interactive user interfaces and
 understanding core frontend concepts.
 
-## Technologies Used
+## Languages Used
 - HTML
 - CSS
 - JavaScript
